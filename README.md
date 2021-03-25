@@ -43,6 +43,7 @@
 </br>
 </br>
 ### Autor
+---
 Feito por Alyson Vieira 🚀 Entre em contato!!
 
 <a href="https://www.instagram.com/alysonvieira88/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
