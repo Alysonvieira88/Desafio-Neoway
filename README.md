@@ -50,5 +50,5 @@ Feito por Alyson Vieira 🚀 Entre em contato!!
 <a href="https://www.linkedin.com/in/alyson-mendon%C3%A7a-vieira-330551181/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alyson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Alyson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alyson-mendon%C3%A7a-vieira-330551181/)](https://www.linkedin.com/in/alyson-mendon%C3%A7a-vieira-330551181/) 
+[![Gmail Badge](https://img.shields.io/badge/-alysonvieira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alysonvieira88@gmail.com)](mailto:alysonvieira88@gmail.com)
