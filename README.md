@@ -10,7 +10,7 @@
 
 <h3 align="center>⚒️ BUILTWITH ⚒️</h3>
 	   
-<p align="center>Bom, o meu primeiro passo foi instalar a biblioteca "builtwith" para verificar as tecnologias utilizadas no site dos correios, ele analisa a URL informada e em seguida retornará todas as tecnologias utilizadas pelo site.<p>
+<p align="center>Bom, o meu primeiro passo foi instalar a biblioteca "builtwith" para verificar as tecnologias utilizadas no site dos correios, ele analisa a URL informada e em seguida retornará todas as tecnologias utilizadas pelo site.</p>
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧
