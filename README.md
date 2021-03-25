@@ -5,7 +5,7 @@
 </br>
 <h2 align="center">🔨 Construção do projeto 🔨</h2>
 
-<p align="center">Confeso que no projeto eu desafiei meus conhecimentos com algo totalmente do zero e nunca visto por mim, achei imprecionante a quantidade de informações e códigos que podem ser feitos com o famoso Web Scraping.</br></br>Foram longas 22 horas desenvolvendo e buscando informações para a melhor forma de entregar o produto. Inicialmente eu comprei um curso na Udemy de 12 horas sobre Web Scraping em Python onde gerou um <a href="https://www.udemy.com/certificate/UC-f508f580-298c-469b-87f6-dd7c467fb6d6/">curriculo</a> ao concluir o curso, além disso passei por muitas pesquisas no google e examinação de códigos em HTML. Mostrarei a seguir passo a passo do que foi feito</p>
+<p align="center">Confeso que no projeto eu desafiei meus conhecimentos com algo totalmente do zero e nunca visto por mim, achei imprecionante a quantidade de informações e códigos que podem ser feitos com o famoso Web Scraping.</br></br>Foram longas 22 horas desenvolvendo e buscando informações para a melhor forma de entregar o produto. Inicialmente eu comprei um curso na Udemy de 12 horas sobre Web Scraping em Python onde gerou um <a href="https://www.udemy.com/certificate/UC-f508f580-298c-469b-87f6-dd7c467fb6d6/">certificado</a> ao concluir o curso, além disso passei por muitas pesquisas no google e examinação de códigos em HTML. Mostrarei a seguir passo a passo do que foi feito</p>
 </br>
 
 <h3 align="center">⚒️ BUILTWITH ⚒️</h3>
