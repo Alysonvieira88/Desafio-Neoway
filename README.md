@@ -11,7 +11,7 @@
  <a href="#autor">Autor</a>
 </p>
 
-<h4 align="center" style="color:red;"> 
+<h4 style="color:red;" align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
