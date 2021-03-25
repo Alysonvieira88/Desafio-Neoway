@@ -4,7 +4,7 @@
 
 <h2 align="center">🔨 Construção do projeto 🔨</h2>
 
-<p align="center">Nesse projeto eu desafiei meus conhecimentos com algo do zero, nunca nada parecido e nem conhecia sobre o famoso Web Scraping,</p>
+<p align="center">Confeso que no projeto eu desafiei meus conhecimentos com algo totalmnte do zero e nunca visto por mim, achei imprecionante o tanto de coisas que pode ser feito com o famoso Web Scraping.</p>
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧
