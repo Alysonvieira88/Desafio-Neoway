@@ -32,7 +32,7 @@
 
 - [x] Busca de informações no site.
 - [x] Busca de todas UFs no site.
-- [ ] Busca da faixa de CEP de todos UFs.
+- [x] Busca da faixa de CEP de todos UFs.
 - [ ] Colocar os dados em JSON.
 
 Redes Sociais
