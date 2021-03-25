@@ -5,8 +5,8 @@
 <h2>A Description List</h2>
 
 <dl>
-  <dt>Coffee</dt>
-  <dd>- black hot drink</dd>
+  <dt>SOBRE</dt>
+  <dd>- Nesse projeto eu desafiei meus conhecimentos com algo do zero, nunca nada parecido e nem conhecia sobre o famoso Web Scraping, </dd>
   <dt>Milk</dt>
   <dd>- white cold drink</dd>
 </dl>
@@ -15,6 +15,12 @@
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
+
+### Conquistas
+
+- [x] Busca de informações no site.
+- [x] Busca de todas UFs no site.
+- [ ] Busca da faixa de CEP de todos UFs
 
 Redes Sociais
 ------------ |
