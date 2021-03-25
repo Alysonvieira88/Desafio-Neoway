@@ -2,7 +2,7 @@
 <h1 align="center">Desafio de Busca CEP no site dos correios</h1>
 
 ## Descrição
-<p align="center">Saudações viajante!!</br> Neste projeto iremos nos aventurar em um desafio nunca feito por mim sobre uma busca de dados usando Web Scraping em Python no Site dos correios. O objetivo do projeto é buscar o maximo de Unidades Federativas e suas faixas de CEP.🚀</p>
+<p align="center">Saudações viajante!!</br> Neste projeto iremos nos aventurar em um desafio nunca feito por mim sobre uma busca de dados usando Web Scraping em Python no Site dos correios. O objetivo do projeto é buscar o maximo de Unidades Federativas e suas faixas de CEP🚀</p>
 
 
 
