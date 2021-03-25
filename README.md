@@ -8,7 +8,7 @@
 <p align="center">Confeso que no projeto eu desafiei meus conhecimentos com algo totalmente do zero e nunca visto por mim, achei imprecionante a quantidade de informações e códigos que podem ser feitos com o famoso Web Scraping.</br></br>Foram longas 22 horas desenvolvendo e buscando informações para a melhor forma de entregar o produto. Inicialmente eu comprei um curso na Udemy de 12 horas sobre Web Scraping em Python onde gerou um <a href="https://www.udemy.com/certificate/UC-f508f580-298c-469b-87f6-dd7c467fb6d6/">curriculo</a> ao concluir o curso, além disso passei por muitas pesquisas no google e examinação de códigos em HTML. Mostrarei a seguir passo a passo do que foi feito</br></p>
 
 
-<h3 align="center>⚒️ BUILTWITH ⚒️</h3>
+<h3 align="center">⚒️ BUILTWITH ⚒️</h3>
 	   
 <p align="center>Bom, o meu primeiro passo foi instalar a biblioteca "builtwith" para verificar as tecnologias utilizadas no site dos correios, ele analisa a URL informada e em seguida retornará todas as tecnologias utilizadas pelo site.</p>
 
