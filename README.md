@@ -42,7 +42,6 @@
 - [ ] Colocar os dados em JSON.
 </br>
 </br>
-### Autor
 
 Feito por Alyson Vieira 🚀 Entre em contato!!
 
