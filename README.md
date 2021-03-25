@@ -11,9 +11,6 @@
 </h1>
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
-- [👨 Social](#-social-)
-
-## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
 
 Redes Sociais
 ------------ |
