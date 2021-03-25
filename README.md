@@ -18,9 +18,9 @@
 <p align="center">Meu segundo passo foi utilizar a biblioteca Python Whois que serve para identificação de propriedades do site. Instalei também pelo prompt utilizando o comando ("pip instal python-whois") e importei também utilizando o prompt de comando("import whois") e imprimi o resultado dentro do python utilizando o comando (whois.whois(‘buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm')</p>
 </br>
 
-<h3 align="center">⚒️ URLLIB ⚒️</h3>
+<h3 align="center">⚒️ URLLIB E BEAUTIFULSOUP⚒️</h3>
 	   
-<p align="center">É uma biblioteca padrão do python e contem funções para solicitação de dados web e manipulação de cookies. Dentro dessa biblioteca eu utilizei a função ("urlopen") que serve para ler um objeto remoto por meio de uma rede e ler esse objeto. Esse objeto pode ser arquivos HTML, arquivos de imagens ou qualquer outro fluxo de arquivos. Importei para o Python utilizando ("from urllib.request import urlopen")e abri as informações do site com("urlopen("https://buscacepinter.correios.com.br/app/faixa_cep_uf_localidade/index.php")")</p>
+<p align="center">Urllib é uma biblioteca padrão do python e contem funções para solicitação de dados web e manipulação de cookies. Dentro dessa biblioteca eu utilizei a função ("urlopen") que serve para ler um objeto remoto por meio de uma rede e ler esse objeto. Esse objeto pode ser arquivos HTML, arquivos de imagens ou qualquer outro fluxo de arquivos. Importei para o Python utilizando ("from urllib.request import urlopen")e abri as informações do site com("urlopen("https://buscacepinter.correios.com.br/app/faixa_cep_uf_localidade/index.php")"), em seguida utilizei a biblioteca BeauifulSoup que não é padrão do Python e é utilizada para buscar informações em uma página HTML. Baixei ela manualmente no site ("https://www.crummy.com/software/BeautifulSoup/bs4/download/4.9/beautifulsoup4-4.9.0.tar.gz") e instalei pelo prompt de comando utilizando o ("pip install beautifulsoup4") e importei ela dentro do Python utilizando ("from bs4 import BeautifulSoup")</p>
 
 </br>
 </br>
